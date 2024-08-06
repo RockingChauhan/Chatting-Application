@@ -30,7 +30,7 @@ Running the Application
 java Server
 
 # Start a client
-java Client <server_ip> 6001
+java Client <120.0.0.1> 6001
 ```
 
 **Features**
